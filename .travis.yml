@@ -5,5 +5,4 @@ cache: npm
 script:
   - echo '****** Build Starts *******'
   - npm install
-  - make test
   - npm test 
